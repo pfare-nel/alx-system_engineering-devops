@@ -7,3 +7,4 @@ This repository contains the source code and configurations for ALX projects on 
 ## Contents
 
 1. 0x00-shell_basics
+2. 0x01-shell_permissions
